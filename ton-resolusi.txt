@@ -1,0 +1,4 @@
+hallo pak, salam kenal nama  saya ton dari tanggerang saya lagi belajar tentang githup dari youtube bapak. sekarang saya baru nyampe pada tahap ini.
+resolisi saya: 
+- belajar tantang python
+- membuat web menggunakan laravel
